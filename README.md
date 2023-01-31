@@ -1,5 +1,11 @@
 # SkyWay Get Started
 
+**これは旧SkyWayのリポジトリです。[新しいSkyWay](<https://skyway.ntt.com>)への移行をご検討ください。**
+
+**This is the old SkyWay repository.  Please consider migrating to the [new SkyWay](<https://skyway.ntt.com>).**
+
+---
+
 ## Setting up
 
 Use npm install to set up dependencies.
